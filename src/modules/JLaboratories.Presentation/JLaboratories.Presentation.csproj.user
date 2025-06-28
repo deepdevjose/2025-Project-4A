@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Presentation\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagePCs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewPC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundedCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RoundedSummaryCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SummaryCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Ticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

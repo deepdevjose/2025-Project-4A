@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Presentation\\JLaboratories.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Business\\JLaboratories.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Business\\JLaboratories.Business.csproj",
+        "projectName": "JLaboratories.Business",
+        "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Business\\JLaboratories.Business.csproj",
+        "packagesPath": "C:\\Users\\Josee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Data\\JLaboratories.Data.csproj": {
+                "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Data\\JLaboratories.Data.csproj"
+              },
+              "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj": {
+                "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Data\\JLaboratories.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Data\\JLaboratories.Data.csproj",
+        "projectName": "JLaboratories.Data",
+        "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Data\\JLaboratories.Data.csproj",
+        "packagesPath": "C:\\Users\\Josee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj": {
+                "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj",
+        "projectName": "JLaboratories.Entity",
+        "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj",
+        "packagesPath": "C:\\Users\\Josee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Presentation\\JLaboratories.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Presentation\\JLaboratories.Presentation.csproj",
+        "projectName": "JLaboratories.Presentation",
+        "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Presentation\\JLaboratories.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Josee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Business\\JLaboratories.Business.csproj": {
+                "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Business\\JLaboratories.Business.csproj"
+              },
+              "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj": {
+                "projectPath": "C:\\Users\\Josee\\Downloads\\VF-Integrador-4A\\JLaboratories.Entity\\JLaboratories.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "PDFsharp": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
