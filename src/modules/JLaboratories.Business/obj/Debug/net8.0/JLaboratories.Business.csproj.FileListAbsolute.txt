@@ -1,0 +1,17 @@
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\bin\Debug\net8.0\JLaboratories.Business.deps.json
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\bin\Debug\net8.0\JLaboratories.Business.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\bin\Debug\net8.0\JLaboratories.Business.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\bin\Debug\net8.0\JLaboratories.Data.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\bin\Debug\net8.0\JLaboratories.Entity.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\bin\Debug\net8.0\JLaboratories.Data.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\bin\Debug\net8.0\JLaboratories.Entity.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\JLaboratories.Business.csproj.AssemblyReference.cache
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\JLaboratories.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\JLaboratories.Business.AssemblyInfoInputs.cache
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\JLaboratories.Business.AssemblyInfo.cs
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\JLaboratories.Business.csproj.CoreCompileInputs.cache
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\JLaborat.302EE791.Up2Date
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\JLaboratories.Business.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\refint\JLaboratories.Business.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\JLaboratories.Business.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Business\obj\Debug\net8.0\ref\JLaboratories.Business.dll
