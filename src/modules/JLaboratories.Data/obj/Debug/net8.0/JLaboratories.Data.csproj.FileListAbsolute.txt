@@ -1,0 +1,15 @@
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\bin\Debug\net8.0\JLaboratories.Data.deps.json
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\bin\Debug\net8.0\JLaboratories.Data.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\bin\Debug\net8.0\JLaboratories.Data.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\bin\Debug\net8.0\JLaboratories.Entity.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\bin\Debug\net8.0\JLaboratories.Entity.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\JLaboratories.Data.csproj.AssemblyReference.cache
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\JLaboratories.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\JLaboratories.Data.AssemblyInfoInputs.cache
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\JLaboratories.Data.AssemblyInfo.cs
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\JLaboratories.Data.csproj.CoreCompileInputs.cache
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\JLaborat.4012CF55.Up2Date
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\JLaboratories.Data.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\refint\JLaboratories.Data.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\JLaboratories.Data.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Data\obj\Debug\net8.0\ref\JLaboratories.Data.dll
