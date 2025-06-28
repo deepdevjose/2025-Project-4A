@@ -1,0 +1,11 @@
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\bin\Debug\net8.0\JLaboratories.Entity.deps.json
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\bin\Debug\net8.0\JLaboratories.Entity.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\bin\Debug\net8.0\JLaboratories.Entity.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\obj\Debug\net8.0\JLaboratories.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\obj\Debug\net8.0\JLaboratories.Entity.AssemblyInfoInputs.cache
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\obj\Debug\net8.0\JLaboratories.Entity.AssemblyInfo.cs
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\obj\Debug\net8.0\JLaboratories.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\obj\Debug\net8.0\JLaboratories.Entity.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\obj\Debug\net8.0\refint\JLaboratories.Entity.dll
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\obj\Debug\net8.0\JLaboratories.Entity.pdb
+C:\Users\Josee\Downloads\VF-Integrador-4A\JLaboratories.Entity\obj\Debug\net8.0\ref\JLaboratories.Entity.dll
